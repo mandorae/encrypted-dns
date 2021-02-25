@@ -12,7 +12,6 @@
 				<key>ServerAddresses</key>
 				<array>
 					<string>1.1.1.1</string>
-					<string>1.0.0.1</string>
 				</array>
 				<key>ServerURL</key>
 				<string>https://cloudflare-dns.com/dns-query</string>
