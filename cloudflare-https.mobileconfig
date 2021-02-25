@@ -9,8 +9,6 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddress</key>
-                                <string>1.0.0.1</string>
                                 <key>ServerURL</key>
 				<string>https://cloudflare-dns.com/dns-query</string>
 			</dict>
