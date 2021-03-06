@@ -9,8 +9,10 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>TLS</string>
+                                <key>ServerAddresses</key>
+ 				<string>162.14.21.56</string>
 				<key>ServerName</key>
-				<string>1.1.1.1</string>
+				<string>dot.pub</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Cloudflare Encrypted DNS over TLS</string>
