@@ -9,7 +9,9 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerURL</key>
+				<key>ServerAddresses</key>
+ 				<string>223.5.5.5</string>
+                                <key>ServerURL</key>
 				<string>https://223.5.5.5/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
