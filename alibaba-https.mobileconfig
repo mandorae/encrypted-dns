@@ -9,8 +9,6 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-                                <key>ServerAddress</key>
-				<string>103.2.57.5</string>
                                 <key>ServerURL</key>
 				<string>https://public.dns.iij.jp/dns-query</string>
 			</dict>
