@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
                                 <key>ServerAddress</key>
-				<string>104.16.249.249</string>
+				<string>104.16.248.24</string>
                                 <key>ServerURL</key>
 				<string>https://cloudflare-dns.com/dns-query</string>
 			</dict>
