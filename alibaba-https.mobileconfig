@@ -12,7 +12,7 @@
                                 <key>ServerAddress</key>
 				<string>223.5.5.5</string>
                                 <key>ServerURL</key>
-				<string>https://dns.alidns.com/dns-query</string>
+				<string>https://223.5.5.5/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use AliDNS Encrypted DNS over TLS</string>
