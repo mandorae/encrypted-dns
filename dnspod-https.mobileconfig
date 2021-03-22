@@ -9,8 +9,6 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<string>175.24.219.66</string>
 				<key>ServerURL</key>
 				<string>https://doh.pub/dns-query</string>
 			</dict>
