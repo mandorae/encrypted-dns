@@ -9,13 +9,8 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>TLS</string>
-				<key>ServerAddresses</key>
-				<array>
-					<string>8.8.8.8</string>
-					<string>8.8.4.4</string>
-				</array>
 				<key>ServerName</key>
-				<string>dns.google</string>
+				<string>223.5.5.5</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Google Encrypted DNS over TLS</string>
