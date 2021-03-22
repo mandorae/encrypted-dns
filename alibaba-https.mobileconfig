@@ -10,9 +10,9 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
                                 <key>ServerAddress</key>
-				<string>103.2.57.6</string>
+				<string>223.5.5.5</string>
                                 <key>ServerURL</key>
-				<string>https://public.dns.iij.jp/dns-query</string>
+				<string>https://dns.alidns.com/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use AliDNS Encrypted DNS over TLS</string>
