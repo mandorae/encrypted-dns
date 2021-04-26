@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerURL</key>
-				<string>https://dns.google/dns-query</string>
+				<string>https://8.8.8.8/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Google Encrypted DNS over TLS</string>
