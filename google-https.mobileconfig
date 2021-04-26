@@ -9,11 +9,6 @@
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
-				<key>ServerAddresses</key>
-				<array>
-					<string>8.8.8.8</string>
-					<string>8.8.4.4</string>
-				</array>
 				<key>ServerURL</key>
 				<string>https://dns.google/dns-query</string>
 			</dict>
