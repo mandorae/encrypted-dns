@@ -10,9 +10,9 @@
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
 				<key>ServerAddress</key>
-				<string>119.29.29.29</string>
+				<string>101.101.101.101</string>
                                 <key>ServerURL</key>
-				<string>https://doh.pub/dns-query</string>
+				<string>https://101.101.101.101/dns-query</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use DNSPod Encrypted DNS over HTTPS</string>
