@@ -10,7 +10,7 @@
 				<key>DNSProtocol</key>
 				<string>TLS</string>
 				<key>ServerName</key>
-				<string>8.8.4.4</string>
+				<string>101.101.101.101</string>
 			</dict>
 			<key>PayloadDescription</key>
 			<string>Configures device to use Google Encrypted DNS over TLS</string>
